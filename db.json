@@ -1,7 +1,7 @@
 {
   "users": [{
 "id": "212121e-232trfd3-323",
-"fio": "Василий Петрович",  
+"fio": "Vas Pet",  
 "userName": "Vasya",
 "email": "vasya@mail.ru",
 "emailConfirmed": true,
@@ -16,7 +16,7 @@
 },
   {
 "id": "212121e-232trfd3-324",
-"fio": "Василий Петрович2",
+"fio": "Vas Pet2",
 "userName": "Vasya2",
 "email": "vasya2@mail.ru",
 "emailConfirmed": false,
