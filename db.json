@@ -1,11 +1,27 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "users": [{
+"id": "212121e-232trfd3-323",
+"userName": "Vasya",
+"email": "vasya@mail.ru",
+"emailConfirmed": true,
+"phone": "+7-913-816-0220",
+"phoneConfirmed": false,
+"twoFactorEnabled": true,
+"lockoutEnd": "Date",
+"lockoutEnabled": false,
+
+"userRoles": ["q", "w", "e", "r", "t", "y"],
+"userClaims": [1, 2, 3, 4, 5]
+}],
+
+"claims": [{
+"id": 1,
+"claimType": "taxonomy",
+"claimValue": "all"
+}],
+
+"roles": [{
+"id": "2213-e1wefe32-2323",
+"name": "admin"
+}]
 }
