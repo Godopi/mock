@@ -12,16 +12,39 @@
 
 "userRoles": ["q", "w", "e", "r", "t", "y"],
 "userClaims": [1, 2, 3, 4, 5]
+},
+  {
+"id": "212121e-232trfd3-324",
+"userName": "Vasya2",
+"email": "vasya2@mail.ru",
+"emailConfirmed": false,
+"phone": "+7-913-816-4224",
+"phoneConfirmed": true,
+"twoFactorEnabled": false,
+"lockoutEnd": "Date",
+"lockoutEnabled": true,
+
+"userRoles": ["q", "y"],
+"userClaims": [1, 4, 5]
 }],
 
 "claims": [{
 "id": 1,
 "claimType": "taxonomy",
 "claimValue": "all"
+},
+          {
+"id": 2,
+"claimType": "search",
+"claimValue": "allSearch"
 }],
 
 "roles": [{
 "id": "2213-e1wefe32-2323",
 "name": "admin"
+},
+         {
+"id": "2213-e1wefe32-23234",
+"name": "admin2"
 }]
 }
