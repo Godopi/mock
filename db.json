@@ -46,5 +46,18 @@
          {
 "id": "2213-e1wefe32-23234",
 "name": "admin2"
+}],
+  "currencies": [{
+    "id": 1,
+    "code": "RUB",
+    "name": "test",
+    "comment": "testComment"
+},
+                {
+    "id": 2,
+    "code": "RTIUB",
+    "name": "test2",
+    "comment": "testComment2"
 }]
 }
+
